@@ -24,3 +24,5 @@ CLAUDE.md
 .phpunit.cache
 /public/css
 /public/js
+router.php
+/public/community
