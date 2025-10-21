@@ -2,6 +2,7 @@
 /public/build
 /public/hot
 /public/client/*
+!public/community
 /storage/*.key
 /storage/app/public
 /storage/framework/*
