@@ -1,8 +1,7 @@
 /node_modules
 /public/build
 /public/hot
-/public/client
-/public/storage
+/public/client/*
 /storage/*.key
 /storage/app/public
 /storage/framework/*
@@ -23,3 +22,5 @@ yarn.lock
 /public/assets/images/generated-logos
 CLAUDE.md
 .phpunit.cache
+/public/css
+/public/js
