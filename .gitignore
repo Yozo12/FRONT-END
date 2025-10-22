@@ -1,8 +1,7 @@
 /node_modules
 /public/build
 /public/hot
-/public/client/*
-!public/community
+/public/client
 /storage/*.key
 /storage/app/public
 /storage/framework/*
